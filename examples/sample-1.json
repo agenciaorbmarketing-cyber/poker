@@ -1,0 +1,13 @@
+{
+  "hero": [
+    "As",
+    "Ks"
+  ],
+  "board": [
+    "Ah",
+    "7d",
+    "2c"
+  ],
+  "nPlayers": 2,
+  "iterations": 5000
+}
